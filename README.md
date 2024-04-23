@@ -33,14 +33,13 @@ print("{:.2f}".format(infinity_matrix))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/Bhavyashree2403/Norm-of-a-matrix/assets/149219738/377041b1-fcd4-47a0-a1cb-3e06f8cf6638)
+
 
 ### 2-Norm of a Matrix
-![image](https://github.com/Bhavyashree2403/Norm-of-a-matrix/assets/149219738/bee0750f-b0d0-4468-af89-621f8afefb28)
+
 
 
 ### Infinity Norm of a Matrix
-![image](https://github.com/Bhavyashree2403/Norm-of-a-matrix/assets/149219738/6460634a-72de-494b-9719-f8f587d9e407)
 
 
 ## Result
